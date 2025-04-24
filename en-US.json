@@ -243,5 +243,8 @@
     "ошибка": "Error",
     "по {}": "to {}",
     "с {}": "from {}",
-    "фамилия отчество": "Surname and patronymic"
+    "фамилия отчество": "Surname and patronymic",
+    "Обновите приложение": "Update your app",
+    "Эта версия приложения устарела.\nУстановите последнюю версию": "To continue using this app, please install the latest version from Google Play",
+    "Обновить": "Update now"
 }
