@@ -269,5 +269,8 @@
     "Завершено": "Completed",
     "Отработанных часов": "Hours worked",
     "Нарушители": "Violators",
-    "дд.мм.гггг": "dd.mm.yyyy"
+    "дд.мм.гггг": "dd.mm.yyyy",
+    "Ссылка недоступна" : "Link unavailable",
+    "Не удалось открыть инструкцию. Попробуйте позже" : "Unable to open the tutorial. Try later",
+    "Интерактивная инструкция" : "Interactive tutorial"
 }
