@@ -270,5 +270,8 @@
     "Завершено" : "Yakunlandi",
     "Отработанных часов" : "Ishlangan soatlar",
     "Нарушители" : "Qoidabuzarlar",
-    "дд.мм.гггг" : "kk.oo.yyyy"
+    "дд.мм.гггг" : "kk.oo.yyyy",
+    "Ссылка недоступна" : "Havola mavjud emas",
+    "Не удалось открыть инструкцию. Попробуйте позже" : "Qo‘llanmani ochib bo‘lmadi. Iltimos, keyinroq urinib ko‘ring",
+    "Интерактивная инструкция" : "Interaktiv qo‘llanma"
 }
