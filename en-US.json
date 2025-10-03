@@ -276,5 +276,6 @@
     "Подробнее о зоне" : "More about the zone",
     "Здание" : "Building",
     "Крыло" : "Wing",
-    "Этаж" : "Floor"
+    "Этаж" : "Floor",
+    "Заявки за период: {}": "Requests for period: {}"
 }
